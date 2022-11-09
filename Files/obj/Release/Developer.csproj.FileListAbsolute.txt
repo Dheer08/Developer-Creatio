@@ -1,0 +1,9 @@
+C:\DeveloperCreatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Developer\Files\Bin\Developer.dll
+C:\DeveloperCreatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Developer\Files\Bin\Developer.pdb
+C:\DeveloperCreatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Developer\Files\obj\Release\Developer.csproj.AssemblyReference.cache
+C:\DeveloperCreatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Developer\Files\obj\Release\Developer.GeneratedMSBuildEditorConfig.editorconfig
+C:\DeveloperCreatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Developer\Files\obj\Release\Developer.AssemblyInfoInputs.cache
+C:\DeveloperCreatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Developer\Files\obj\Release\Developer.AssemblyInfo.cs
+C:\DeveloperCreatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Developer\Files\obj\Release\Developer.csproj.CoreCompileInputs.cache
+C:\DeveloperCreatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Developer\Files\obj\Release\Developer.dll
+C:\DeveloperCreatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\Developer\Files\obj\Release\Developer.pdb
